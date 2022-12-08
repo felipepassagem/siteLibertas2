@@ -17,9 +17,11 @@ function Header() {
         <Container className="ctNav justify-content-center">
           <div>
             <Nav className="me-auto navlink">
-              <Nav.Link href="#Humanas">Humanas</Nav.Link>
+              <Nav.Link href="#Humanas" className="flink">Humanas</Nav.Link>
+              <span className="gambiarra">0000000</span>
               <Nav.Link href="#Biológicas">Biológicas</Nav.Link>
-              <Nav.Link href="#Exatas">Exatas</Nav.Link>
+              <span className="gambiarra">0000000</span>
+              <Nav.Link href="#Exatas" className="llink">Exatas</Nav.Link>
             </Nav>
           </div>
         </Container>

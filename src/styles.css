@@ -6,6 +6,16 @@
   height: 87vh;
 } 
 
+.gambiarra{
+  color: #4d4d4d00;
+  visibility: hidden;
+}
+
+.flink{
+  padding-right: 100px;
+ 
+}
+
 .header2-div{
   height: 14vh;
   background-color: #A84147;
@@ -110,7 +120,8 @@
 }
 
 .ctNav{
-  margin-right: 12vw;
+  margin-right: 16vw;
+  
 }
 
 .navlink{
