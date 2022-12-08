@@ -1,0 +1,5 @@
+- Padding nos titulos
+- Componente dinamico de estrelas (mec)
+- Nome dos cursos está meio feio
+- Nav bar collapse
+- shadowbox nos cards de cursos -(?onhover)

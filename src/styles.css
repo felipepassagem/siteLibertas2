@@ -1,0 +1,143 @@
+/* .carouselItem {
+  height: 80vh;
+}
+*/
+.carouselImg{
+  height: 87vh;
+} 
+
+.header2-div{
+  height: 14vh;
+  background-color: #A84147;
+}
+
+.header2-text{
+  color: white;
+  font-size: 36px;
+  margin: 0px;
+  padding-top: 5px;
+}
+
+.CCHeader{
+  background-color: #763438;
+  color: aliceblue;
+}
+
+.header2-text{
+  
+}
+
+.carouselitemcomp {
+  height: 60vh;
+  padding: 0px;
+  margin: 0px;
+}
+
+#carouselitemitem{
+  background-color: #502b0d;
+}
+
+#carouselitemimg {
+  border-radius: 10px;
+  max-height: 50vh;
+  max-width: 40vw;
+  padding: 0px
+}
+
+#item-text{
+  background-color: rgba(14, 8, 6, 0.274);
+  max-height: 50vh;
+  max-width: 60vw;
+}
+
+.carouselitemcardinfo {
+  margin-top: 5%;
+  background-color: #3a160c80;
+  color: white;
+  font-size: larger;
+}
+
+.cardlg{
+  text-justify: auto;
+  background-color: #00000000;
+  color: white;
+}
+
+.carouselheader{
+  background-color: #502b0d;
+  height: 10vh;
+  align-items: center;
+  color: white;
+  font-size: 40px;
+
+}
+.rowcursos{
+  background-color: #ebe8e8;
+}
+/* CSS dos cards de cursos */
+.cardcurso{
+  box-shadow: 10px;
+}
+
+.cardcurso:hover{
+  transform: scale(1.05);
+}
+
+.imagemcurso{
+ height: 30vh;
+}
+
+.cardtextspan {
+  color: #502b0d;
+  font-weight: 500;
+  font-size: large;
+}
+
+.cardtext{
+  font-size: larger;
+}
+
+.header{
+  z-index: 100;
+  margin: 0px;
+  padding: 0px;
+  height: 13vh; 
+  background-color: rgba(15, 15, 15, 0.699);
+}
+
+.x{
+  padding-left: 5vw;
+}
+
+.ctNav{
+  margin-right: 12vw;
+}
+
+.navlink{
+  font-size: 25px;
+}
+
+.logo{
+  max-height: 80px;
+}
+
+.header{
+  height: 90px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.footer{
+  background-color: #502b0d;
+  color: white;
+  height: 18vh;
+  font-size: larger;
+}
+
+
